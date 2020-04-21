@@ -1,0 +1,2 @@
+rootProject.name='StoriesFirebase'
+include ':app'
