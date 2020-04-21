@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "675828481466",
+    "firebase_url": "https://storiesfirebase-8d4fd.firebaseio.com",
+    "project_id": "storiesfirebase-8d4fd",
+    "storage_bucket": "storiesfirebase-8d4fd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:675828481466:android:b35e24dd1c460030323183",
+        "android_client_info": {
+          "package_name": "com.mouhsinbourqaiba.android.storiesfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "675828481466-c2taafvoe2cvf3pakg2h07246lrvr9k3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcXjIZ_6Uc3lpNcfQlk1AagaDp0PJGLBw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "675828481466-c2taafvoe2cvf3pakg2h07246lrvr9k3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
